@@ -1,0 +1,29 @@
+#header {
+    padding: 1rem;
+    display: grid;
+    gap: 1rem;
+    text-align: center;
+}
+
+figure {
+    display: grid;
+}
+
+figure>label {
+    color: rgba(255, 255, 255, 0.67);
+}
+
+article {
+    padding: 1.5rem;
+    text-align: justify;
+    text-indent: 2rem;
+    line-height: 1.5rem;
+    letter-spacing: .05rem;
+}
+
+footer {
+    padding: 1rem;
+    color: rgba(255, 255, 255, 0.6);
+    text-align: center;
+    word-spacing: .15rem;
+}

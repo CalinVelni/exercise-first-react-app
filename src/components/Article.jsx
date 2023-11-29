@@ -1,0 +1,9 @@
+export default () => {
+    return (
+        <article>
+            <p>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque laboriosam laborum aliquam corrupti ullam fugit ipsa quae, consequatur aperiam distinctio repellendus aliquid iure vitae aut enim iusto dicta sed laudantium dolores ipsam accusamus quas debitis! Qui voluptates natus repellat a accusantium eius at numquam minus quaerat, similique ut! Quibusdam vero magnam numquam tempora voluptates assumenda ex voluptatum odio soluta magni quae voluptatibus cumque mollitia alias perferendis ut, sequi est consectetur delectus harum repellendus explicabo perspiciatis aliquam pariatur. Cupiditate impedit est quia facilis facere! Sunt nisi incidunt, iusto delectus dolores voluptas debitis et ipsum accusamus repudiandae cum illo consequatur nemo, sed saepe aspernatur nostrum veritatis vero libero! Ullam consequuntur, non fugit inventore consectetur explicabo cum. Laborum illo reiciendis sint eius, quaerat inventore! Reprehenderit, vero sequi repellendus consequatur omnis maiores tempore libero provident ex necessitatibus voluptatum eveniet nesciunt voluptatibus excepturi nostrum incidunt, eaque voluptatem fugit corporis, facere mollitia deserunt voluptates. Modi mollitia vel deleniti, molestiae itaque, accusantium, fugiat similique expedita alias neque sequi aspernatur rem dolore quaerat molestias ipsum assumenda inventore minima! Qui quod facilis repellat voluptatum laboriosam numquam dolores eaque ea laudantium repellendus voluptates reiciendis, eum, autem error nobis quidem assumenda optio esse, aut inventore. Doloribus itaque eligendi quia consequuntur qui!
+            </p>
+        </article>
+    )
+}
